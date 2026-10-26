@@ -4,7 +4,7 @@
 
 **CSE · Cyber Security · VIT Chennai**
 
-Building things to learn how they work.
+Building things to learn how they work :).
 
 [LinkedIn](https://www.linkedin.com/in/sandhiya-priyadharshini-ganesh-0a367b2b7/) · [Email](mailto:gsandhiyapriyadharshini@gmail.com) · [My Projects](https://github.com/SANDHIYAPRIYADHARSHINI?tab=repositories)
 
@@ -24,7 +24,7 @@ I work with **Python, C/C++, and Linux**, and pick up different tools and techno
 - **AI/ML & computer vision** — experimenting with models and tools to turn ideas into working projects.
 - **Learning by building** — connecting software, hardware, and curiosity through hands-on projects.
 
-### 🧰 My tech stack
+### 🧰 Tech stack
 
 **Languages**  
 Python · C · C++ · JavaScript · HTML · CSS · Java
