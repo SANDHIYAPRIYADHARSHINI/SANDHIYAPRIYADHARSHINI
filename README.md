@@ -4,7 +4,7 @@
 
 **CSE · Cyber Security · VIT Chennai**
 
-Building things to learn how they work :).
+Building things to learn how they work :)
 
 [LinkedIn](https://www.linkedin.com/in/sandhiya-priyadharshini-ganesh-0a367b2b7/) · [Email](mailto:gsandhiyapriyadharshini@gmail.com) · [My Projects](https://github.com/SANDHIYAPRIYADHARSHINI?tab=repositories)
 
