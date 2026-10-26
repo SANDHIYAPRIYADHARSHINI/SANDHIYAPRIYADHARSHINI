@@ -35,7 +35,7 @@ OpenCV · YOLO · MediaPipe · Edge Impulse · scikit-learn · NumPy · Pandas �
 **Security**  
 Nmap · Wireshark
 
-### 👾 Contributions, arcade style
+### 👾 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANDHIYAPRIYADHARSHINI/SANDHIYAPRIYADHARSHINI/output/pacman-contribution-graph-dark.svg">
