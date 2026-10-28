@@ -16,7 +16,6 @@ Building things to learn how they work :)
 
 I'm a **CSE Cyber Security student at VIT Chennai**, exploring cybersecurity, network security, and AI/ML. I enjoy building things to understand how they work, experimenting with new ideas, and learning along the way.
 
-I work with **Python, C/C++, and Linux**, and pick up different tools and technologies depending on what I'm building.
 
 ### 🔭 What I'm exploring
 
